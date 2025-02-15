@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋,  i`m Daniel Garcia and welcome to my profile</h2>
+<h2 align="left">Hi :wave:,  i`m Daniel Garcia and welcome to my profile</h2>
 
 ###
 
