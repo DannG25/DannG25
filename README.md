@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm a FullStack Dev.<br>Welcome to my profile 🐱<br><br>💹I usualy working as a Jr Software ingenieer.<br><br>💹Studies for  SENA at analyst and developer of software. <br><br>Lives in Colombia 🇨🇴<br><br>⚡Fun Facts 🏀🍨🍔🏋️🏂</h2>
+<h2 align="left">I'm a FullStack Dev.<br>Welcome to my profile :smiley_cat: <br><br>💹I usualy working as a Jr Software ingenieer.<br><br>💹Studies for  SENA at analyst and developer of software. <br><br>Lives in Colombia 🇨🇴<br><br>⚡Fun Facts 🏀🍨🍔🏋️🏂</h2>
 
 ###
 
