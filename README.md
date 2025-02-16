@@ -1,4 +1,4 @@
-<h2 align="left">Hi :wave:,  i`m Daniel Garcia and welcome to my profile</h2>
+<h2 align="left">Hi 👋,  i`m Daniel Garcia and welcome to my profile</h2>
 
 ###
 
@@ -6,13 +6,13 @@
 
 ###
 
-<h2 align="left">I'm a FullStack Dev.<br>Welcome to my profile :smiley_cat: <br><br>💹I usualy working as a Jr Software ingenieer.<br><br>💹Studies for  SENA at analyst and developer of software. <br><br>Lives in Colombia 🇨🇴<br><br>⚡Fun Facts 🏀🍨🍔🏋️🏂</h2>
+<h2 align="left">I'm a FullStack Dev.<br>Welcome to my profile 🐱<br><br>💹I usualy working as a Jr Software ingenieer.<br><br>💹Studies for  SENA at analyst and developer of software. <br><br>Lives in Colombia 🇨🇴<br><br>⚡Fun Facts 🏀🍨🍔🏋️🏂</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DannG25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DannG25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DannG25&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DannG25&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -66,7 +66,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
@@ -81,13 +81,15 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DannG25/DannG25/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <h3 align="left">Connect with me ☕:</h3>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -104,10 +106,5 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="![image](https://github.com/user-attachments/assets/e1fef680-0c0a-47ba-a6a3-fea6bec66354)
-"  />
 
 ###
